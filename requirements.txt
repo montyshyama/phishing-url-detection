@@ -1,0 +1,9 @@
+re
+tldextract
+bs4
+requests
+pythonwhois
+googlesearch
+numpy
+sklearn
+pandas
